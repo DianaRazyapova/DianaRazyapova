@@ -3,6 +3,11 @@
 [Link to my CV](https://career.habr.com/dianarazyapova/friends/requests)
 
 ## 📁 Testing Documentation
+- [Checklists]
+- [Test-Cases]
+- [Bug-Reports]
+- [Postman Collections]
+- [SQL Queries]
 
 ## Language and Tools
 ![Header](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37)
