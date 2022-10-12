@@ -6,6 +6,8 @@
 ![Header](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Header](https://img.shields.io/badge/AndroidStudio-ffffff?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=2674A2)
+![Header](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Header](https://img.shields.io/badge/CharlesProxy-ffffff?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 <!---
 DianaRazyapova/DianaRazyapova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
