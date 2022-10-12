@@ -3,9 +3,9 @@
 [Link to my CV](https://career.habr.com/dianarazyapova/friends/requests)
 
 ## Language and Tools
-![Header](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Header](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Header](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Header](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Header](https://img.shields.io/badge/AndroidStudio-ffffff?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=2674A2)
 
 
 <!---
