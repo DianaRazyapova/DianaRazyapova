@@ -26,6 +26,10 @@
 ## About me
 Scientific article author ["Information security during cadastral registration in the unified state register of real estate"](https://naukaip.ru/wp-content/uploads/2022/04/MK-1366.pdf#page=48)
 
+## Сontacts
+Email: d.razyapova@yandex.ru
+
+Telegram: @dianarazyapova
 
 <!---
 DianaRazyapova/DianaRazyapova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
