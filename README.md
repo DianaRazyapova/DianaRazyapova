@@ -20,6 +20,8 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-ffffff?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Yandex.Tracker-ffffff?style=for-the-badge&logo=yandextracker&logoColor=8cc4d7)
 
+## About me
+Scientific article author ["Information security during cadastral registration in the unified state register of real estate"](https://naukaip.ru/wp-content/uploads/2022/04/MK-1366.pdf#page=48)
 
 <!---
 DianaRazyapova/DianaRazyapova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
