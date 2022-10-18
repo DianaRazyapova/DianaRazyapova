@@ -1,8 +1,8 @@
 ## 🔎 Manual testing engineer
 ## Resume
 - [Link to my CV](https://career.habr.com/dianarazyapova/friends/requests)
-- [hh.ru](https://hh.ru/resume/693f935dff0b51d7ee0039ed1f634839647042)
-- [habr career](https://career.habr.com/dianarazyapova/friends/requests)
+- [Head Hunter](https://hh.ru/resume/693f935dff0b51d7ee0039ed1f634839647042)
+- [Habr Career](https://career.habr.com/dianarazyapova/friends/requests)
 
 ## 📁 Testing Documentation
 - [Checklists]()
