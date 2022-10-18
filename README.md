@@ -22,7 +22,9 @@
 ![Header](https://img.shields.io/badge/Yandex.Tracker-ffffff?style=for-the-badge&logo=yandextracker&logoColor=8cc4d7)
 
 ## About me
-Scientific article author ["Information security during cadastral registration in the unified state register of real estate"](https://naukaip.ru/wp-content/uploads/2022/04/MK-1366.pdf#page=48)
+- Состою в сообществе **VK Testers**. Провожу тестирование продуктов выпускаемые для сервиса "Вконтакте";
+- Автор научной статьи ["Безопасность информации при кадастровом учете в Едином государственном реестре недвижимости"](https://naukaip.ru/wp-content/uploads/2022/04/MK-1366.pdf#page=48)
+
 
 ## Сontacts
 Email: d.razyapova@yandex.ru
