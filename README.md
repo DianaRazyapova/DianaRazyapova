@@ -4,7 +4,7 @@
 - [Habr Career](https://career.habr.com/dianarazyapova/friends/requests)
 
 ## 📁 Testing Documentation
-- [Checklists]()
+- [Checklists](https://docs.google.com/spreadsheets/d/1WYdYmcbC7-cmnnpA_rmW6JBtq91xHwmTM7ZtLexbO10/edit?usp=sharing)
 - [Test-Cases]()
 - [Bug-Reports]()
 - [Postman Collections]()
