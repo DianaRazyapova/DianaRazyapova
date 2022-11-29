@@ -20,14 +20,15 @@
 ![Header](https://img.shields.io/badge/Yandex.Tracker-ffffff?style=for-the-badge&logo=yandextracker&logoColor=8cc4d7)
 
 ## About me
-- Состою в сообществе **VK Testers**. Провожу тестирование продуктов выпускаемые для сервиса "Вконтакте";
 - Автор научной статьи "[Безопасность информации при кадастровом учете в Едином государственном реестре недвижимости](https://naukaip.ru/wp-content/uploads/2022/04/MK-1366.pdf#page=48)";
 
 
 ## Сontacts
-Email: d.razyapova@yandex.ru
-
-Telegram: @dianarazyapova
+<div id="badges">
+  <a href="https://t.me/dianarazyapova">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+  </a>
+  </div>
 
 <!---
 DianaRazyapova/DianaRazyapova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
