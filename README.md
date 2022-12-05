@@ -1,6 +1,6 @@
 ## 🔎 Manual testing engineer
 ## Resume
-- [Head Hunter](https://hh.ru/resume/693f935dff0b51d7ee0039ed1f634839647042)
+- [Head Hunter](https://ufa.hh.ru/resume/e5da17f7ff0b6606380039ed1f33556d70476f)
 - [Habr Career](https://career.habr.com/dianarazyapova/friends/requests)
 
 ## 📁 Testing Documentation
