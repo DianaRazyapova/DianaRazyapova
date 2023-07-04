@@ -16,7 +16,7 @@
 - :envelope: How to reach me **diana.razyapova.qa@gmail.com**
 - 
 
----
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ### Languages 
 <div id="header" align='left'>
