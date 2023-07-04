@@ -16,6 +16,8 @@
 - :envelope: How to reach me **diana.razyapova.qa@gmail.com**
 - 
 
+---
+
 ### Languages 
 <div id="header" align='left'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -36,7 +38,10 @@
     <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="IntelliJ IDEA" width="55" height="55"/>
 </div>
 
+
 ### My stat
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaRazyapova&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DianaRazyapova&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DianaRazyapova&theme=blueberry)
+<div id="stat" align='left'>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaRazyapova&theme=blueberry" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DianaRazyapova&theme=blueberry" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DianaRazyapova&theme=blueberry" alt=""/>
+</div>
