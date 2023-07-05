@@ -40,7 +40,7 @@
 
 ### My stat
 <div id="stat" align='left'>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaRazyapova&theme=blueberry" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DianaRazyapova&theme=blueberry" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DianaRazyapova&theme=blueberry" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaRazyapova&theme=discord_old_blurple"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DianaRazyapova&theme=discord_old_blurple"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DianaRazyapova&theme=discord_old_blurple"/>
 </div>
