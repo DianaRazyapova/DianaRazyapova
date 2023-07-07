@@ -13,6 +13,7 @@
 </div>
 
 ### About me
+- :blue_book: I am currently learning **manual** and **automated** testing
 - :envelope: How to reach me **diana.razyapova.qa@gmail.com**
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
