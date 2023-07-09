@@ -40,6 +40,17 @@
     <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="IntelliJ IDEA" width="55" height="55"/>
 </div>
 
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+### Education and courses
+
+| Course title                         | Organization       | Year   | Link           |
+| ------------------------------------ | ------------------ | ------ | -------------- |
+| Инженер по тестированию              | Яндекс Практикум   |  2022  |   [Диплом]()   |
+| Автоматизатор тестирования на Java   | Яндекс Практикум   |  2023  |   [Диплом]()   |
+
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ### My stat
 <div id="stat" align='left'>
