@@ -42,16 +42,6 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-### Education and courses
-
-| Course title                         | Organization       | Year   | Link           |
-| ------------------------------------ | ------------------ | ------ | -------------- |
-| Инженер по тестированию              | Яндекс Практикум   |  2022  |   [Диплом]()   |
-| Автоматизатор тестирования на Java   | Яндекс Практикум   |  2023  |   [Диплом]()   |
-
-
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
 ### My stat
 <div id="stat" align='left'>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaRazyapova&theme=discord_old_blurple"/>
