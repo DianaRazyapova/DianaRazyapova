@@ -16,7 +16,7 @@
 - :blue_book: I am currently learning **manual** and **automated** testing
 - :page_facing_up: Know about my experiences [CV](), [Habr Career](), [HeadHunter]()  
 - :envelope: How to reach me **diana.razyapova.qa@gmail.com**
-- 
+
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
