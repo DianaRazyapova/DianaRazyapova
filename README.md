@@ -14,7 +14,7 @@
 
 ### About me
 - :blue_book: I am currently learning **manual** and **automated** testing
-- :page_facing_up: Know about my experiences [CV](), [Habr Career](), [HeadHunter]()  
+- :page_facing_up: Know about my experiences [CV](), [Habr Career](https://career.habr.com/dianarazyapova), [HeadHunter]()  
 - :envelope: How to reach me **diana.razyapova.qa@gmail.com**
 
 
