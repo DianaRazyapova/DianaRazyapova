@@ -31,7 +31,7 @@
 <div id="header" align='left'> 
     <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" alt="chromedevtools" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="50" height="50"/>
-    <img src="https://pic2-orsoon.mac89.com/2017/0508/20170508093221641.png" alt="charlesproxy " width="55" height="55"/>
+    <img src="https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2020/10/charles-logo-288569.jpeg" alt="charlesproxy " width="55" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
     <img src="https://github.com/JetBrains/logos/blob/master/web/youtrack/youtrack.svg" alt="youtrack" width="50" height="50"/>
