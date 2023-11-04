@@ -34,7 +34,7 @@
     <img src="https://github.com/DianaRazyapova/DianaRazyapova/assets/115238502/a908d9ed-b29f-49c1-9de8-77e89c360fb1" alt="charlesproxy " width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-    <img src="https://github.com/JetBrains/logos/blob/master/web/youtrack/youtrack.svg" alt="youtrack" width="50" height="50"/>
+    <img src="https://github.com/DianaRazyapova/DianaRazyapova/assets/115238502/f3fb4952-2b4d-4e24-a78d-326e498b9b74" alt="qase.io" width="50" height="50"/>
     <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" alt="IntelliJ IDEA" width="50" height="50"/>
     <img src="https://static.merlion.ru/merliontech/images/logo_selenium.png" alt="selenium" width="50" height="50"/>
     <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="IntelliJ IDEA" width="55" height="55"/>
