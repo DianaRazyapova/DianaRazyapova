@@ -1,4 +1,4 @@
-<div id="header" align='center'>
+<div id="header" align='center'color='#000000'>
   <h1>Hi, I'm Diana</h1>
     <h3>QA Engineer from Ufa</h3>
       <a href="https://www.linkedin.com/in/diana-razyapova/">
