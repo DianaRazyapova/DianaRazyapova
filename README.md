@@ -12,8 +12,7 @@
       </a>
 </div>
 
-### About me
-- 
+### About me 
 - :page_facing_up: Мое резюме на площадках [CV](), [Habr Career](https://career.habr.com/dianarazyapova), [HeadHunter]()  
 - :envelope: **diana.razyapova.qa@gmail.com**
 
