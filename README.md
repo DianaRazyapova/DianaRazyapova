@@ -13,7 +13,7 @@
 </div>
 
 ### About me 
-- :page_facing_up: Мое резюме на площадках [CV](), [Habr Career](https://career.habr.com/dianarazyapova), [HeadHunter]()  
+- :page_facing_up: Мое резюме на площадках [CV](https://drive.google.com/file/d/1zw4ITeseMsj42vvxDAwv-nbt5xhPI2Br/view?usp=sharing), [Habr Career](https://career.habr.com/dianarazyapova), [HeadHunter](https://ufa.hh.ru/resume/e7bb7d15ff0cdf59de0039ed1f5a3841506276)  
 - :envelope: **diana.razyapova.qa@gmail.com**
 
 
