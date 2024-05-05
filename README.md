@@ -4,7 +4,7 @@
       <a href="https://www.linkedin.com/in/diana-razyapova/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="https://t.me/QA_dianarazyapova">
+      <a href="https://t.me/dianarazyapova_qa">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
       </a>
       <a href="https://wa.me/79964011474">
